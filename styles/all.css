@@ -87,3 +87,8 @@
     box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.29), 
     -2px -2px 2.6px rgba(255, 229, 231, 0.877);
 }
+
+.calc_buttons {
+    cursor:default;
+    user-select: none;
+}
